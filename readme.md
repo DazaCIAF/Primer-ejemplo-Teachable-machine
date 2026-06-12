@@ -1,0 +1,1 @@
+Ejemplo basico muestra imagen y aparece emotic del los mostrado 
